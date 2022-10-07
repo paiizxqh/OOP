@@ -1,0 +1,3 @@
+Plush Dog,5.5,3
+Kitty Litter,6.0,2
+Soy Sauce,3.75,3
